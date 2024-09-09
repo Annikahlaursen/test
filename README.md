@@ -1,5 +1,11 @@
-# Sprint
+# Boilerplate: HTML5, CSS and JavaScript
 
-## igå ....
+Here's a quick start for any project.
 
-Her finder du vores sprint projekt
+## Usage
+
+* Copy the folder named `boilerplate` in your Filemagager
+* Paste the folder somewhere suitable.
+* Rename the folder to something usefull.
+
+That's it!
